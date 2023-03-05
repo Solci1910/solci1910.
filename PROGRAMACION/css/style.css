@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+}
+.contenedor{
+    border: 10px solid #FFB3C6;
+    margin:0 auto;
+    width: 60%;
+    background: #ffffff;
+    padding: auto;
+}
+.principal{
+    background-color: #ffffff;
+    padding: 10px;
+}
+.header{
+    display: flex;
+    background-color: #FFC2D1;
+}
+.nombre{
+    margin-left: 40px;
+    width: 100%;
+}
+.titulo{
+    border: 1px solid #FFC2D1;
+    color: #FFB3C6;
+}
